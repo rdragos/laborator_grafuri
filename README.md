@@ -3,6 +3,7 @@ Materiale pentru laboratorul de grafuri - Anul I
 ** Structura se poate schimba **
 
 Laborator 1 - :
+
 1. Definitii grafuri.
 2. Conexitate (DFS)
 3. Shortest-Paths (BFS)
@@ -15,7 +16,9 @@ Laborator 2 - :
 3. [Problema Sate](http://www.infoarena.ro/problema/sate)
 
 Laborator 3 - :
+
 1. Tare conexitate
 
 Laborator 4 - :
+
 1. Biconexitate
