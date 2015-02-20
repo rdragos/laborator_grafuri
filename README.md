@@ -1,13 +1,18 @@
 # laborator_grafuri
 Materiale pentru laboratorul de grafuri - Anul I
+
 ** Structura se poate schimba **
 
 Laborator 1 - :
 
 1. Definitii grafuri.
-2. Conexitate (DFS)
-3. Shortest-Paths (BFS)
-4. DFS iterativ
+2. Conexitate. [Problema DFS]
+   (http://www.infoarena.ro/problema/dfs)
+3. Shortest-Paths. [Problema BFS]
+   (http://www.infoarena.ro/problema/bfs)
+4. DFS iterativ. [Problema
+   Stramosi](http://www.infoarena.ro/problema/stramosi)
+
 
 Laborator 2 - :
 
@@ -18,7 +23,10 @@ Laborator 2 - :
 Laborator 3 - :
 
 1. Tare conexitate
+2. Biconexitate
 
 Laborator 4 - :
 
-1. Biconexitate
+1. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
+   B intr-un graf orientat
+2. Cuplaj maxim in graf bipartit. Metoda lanturilor alternante.
