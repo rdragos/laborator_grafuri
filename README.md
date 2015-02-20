@@ -1,7 +1,7 @@
 # laborator_grafuri
 Materiale pentru laboratorul de grafuri - Anul I
 
-** Structura se poate schimba **
+**Structura se poate schimba**
 
 Laborator 1 - :
 
@@ -30,3 +30,8 @@ Laborator 4 - :
 1. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
    B intr-un graf orientat
 2. Cuplaj maxim in graf bipartit. Metoda lanturilor alternante.
+
+Suplimentar:
+
+1. [Acyclic Decomposition](http://main.edu.pl/en/archive/pa/2010/dek)
+2. [Divisors](http://main.edu.pl/en/archive/amppz/2012/dzi)
