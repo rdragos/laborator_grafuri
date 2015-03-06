@@ -1,5 +1,5 @@
 # laborator_grafuri
-Materiale pentru laboratorul de grafuri - Anul I - Grupa 135
+Materiale pentru laboratorul de grafuri - Anul I
 
 **Structura se poate schimba**
 
