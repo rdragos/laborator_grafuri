@@ -25,8 +25,8 @@ Laborator 2 - :
 Laborator 3 - :
 
 1. Havel Hakimi
-2. [Problema Sate](http://www.infoarena.ro/problema/sate)
-3. Biconexitate
+2. [Componente biconexe](http://www.infoarena.ro/problema/biconex)
+3. [Arbore partial de cost minim](http://www.infoarena.ro/problema/apm)
 
 Laborator 4 - :
 
@@ -37,6 +37,8 @@ Laborator 4 - :
 Aproape suplimentar:
 
 1. [Problema Graf](http://www.infoarena.ro/problema/graf)
+2. [Problema Sate](http://www.infoarena.ro/problema/sate)
+3. [Problema MST](http://codeforces.com/contest/160/problem/D)
 
 Suplimentar:
 
