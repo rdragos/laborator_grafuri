@@ -24,25 +24,28 @@ Laborator 2 - :
 
 Laborator 3 - :
 
-1. Havel Hakimi
-2. [Componente biconexe](http://www.infoarena.ro/problema/biconex)
-3. [Arbore partial de cost minim](http://www.infoarena.ro/problema/apm)
+1. [Paduri de multimi disjuncte](http://www.infoarena.ro/problema/disjoint)
+2. [Arbore partial de cost minim](http://www.infoarena.ro/problema/apm)
 
 Laborator 4 - :
 
+1. [Algoritmul lui Dijkstra](http://www.infoarena.ro/problema/dijkstra)
+
+Laborator 5 - :
 1. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
    B intr-un graf orientat
 2. Cuplaj maxim in graf bipartit. Metoda lanturilor alternante.
+3. [Componente biconexe](http://www.infoarena.ro/problema/biconex)
 
 Aproape suplimentar:
 
 1. [Problema Graf](http://www.infoarena.ro/problema/graf)
 2. [Problema Sate](http://www.infoarena.ro/problema/sate)
-3. [Problema MST](http://codeforces.com/contest/160/problem/D)
+3. [Rmvc](http://www.infoarena.ro/problema/rmvc)
 
 Suplimentar:
 
 1. [Acyclic Decomposition](http://main.edu.pl/en/archive/pa/2010/dek)
 2. [Divisors](http://main.edu.pl/en/archive/amppz/2012/dzi)
-3. [Rmvc](http://www.infoarena.ro/problema/rmvc)
 4. [Graf2](http://www.infoarena.ro/problema/graf2)
+5. [Problema MST](http://codeforces.com/contest/160/problem/D)
