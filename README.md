@@ -32,16 +32,26 @@ Laborator 4 - :
 1. [Algoritmul lui Dijkstra](http://www.infoarena.ro/problema/dijkstra)
 
 Laborator 5 - :
-1. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
+
+1. [Ciclu Eulerian](http://www.infoarena.ro/problema/ciclueuler)
+2. [Cuplaj maxim in graf
+   bipartit](http://www.infoarena.ro/problema/cuplaj)
+
+
+Laborator 6 - :
+
+. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
    B intr-un graf orientat
 2. Cuplaj maxim in graf bipartit. Metoda lanturilor alternante.
 3. [Componente biconexe](http://www.infoarena.ro/problema/biconex)
+
 
 Aproape suplimentar:
 
 1. [Problema Graf](http://www.infoarena.ro/problema/graf)
 2. [Problema Sate](http://www.infoarena.ro/problema/sate)
-3. [Rmvc](http://www.infoarena.ro/problema/rmvc)
+3. [Algoritmul lui
+   Bellman-Ford](http://www.infoarena.ro/problema/dijkstra)
 
 Suplimentar:
 
@@ -49,3 +59,4 @@ Suplimentar:
 2. [Divisors](http://main.edu.pl/en/archive/amppz/2012/dzi)
 4. [Graf2](http://www.infoarena.ro/problema/graf2)
 5. [Problema MST](http://codeforces.com/contest/160/problem/D)
+6. [Rmvc](http://www.infoarena.ro/problema/rmvc)
