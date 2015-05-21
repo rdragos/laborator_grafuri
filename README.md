@@ -40,10 +40,7 @@ Laborator 5 - :
 
 Laborator 6 - :
 
-. Flux maxim. Aplicatii. Numarul maxim de drumuri disjuncte de la A la
-   B intr-un graf orientat
-2. Cuplaj maxim in graf bipartit. Metoda lanturilor alternante.
-3. [Componente biconexe](http://www.infoarena.ro/problema/biconex)
+1. [Formular Feedback](http://goo.gl/forms/f19F6jMdVK)
 
 
 Aproape suplimentar:
